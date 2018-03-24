@@ -10,7 +10,7 @@ For full documentation visit [mkdocs.org]
 
 ## Project layout
 
-    mkdocs.yml    # The configuration file.
+    mkdocs.yml      # The configuration file.
     docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+        index.md    # The documentation homepage.
+        ...         # Other markdown pages, images and other files.
