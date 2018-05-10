@@ -27,3 +27,6 @@ async def predict(input_data: InputData):
                           columns=input_data.model_dump().keys())
         pred = model.predict(df)
         return {"predicted_class": int(pred[0])}
+
+
+
